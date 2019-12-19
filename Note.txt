@@ -6,3 +6,4 @@ https://github.com/Annie-Huang/webpacktut
 C:\react\webpacktut>npm init -y
 C:\react\webpacktut>npm i -D webpack webpack-cli
 
+C:\react\webpacktut>npm run build
