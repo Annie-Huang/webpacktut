@@ -3,5 +3,6 @@ https://github.com/Annie-Huang/webpacktut
 
 ===================================================
 
+C:\react\webpacktut>npm init -y
 
 
