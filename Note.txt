@@ -12,3 +12,4 @@ C:\react\webpacktut>npm i -D webpack-dev-server
 C:\react\webpacktut>npm run start:dev
 C:\react\webpacktut>npm i -D @babel/core babel-loader @babel/preset-env
 C:\react\webpacktut>npm i -D file-loader
+C:\react\webpacktut>npm i -D node-sass style-loader css-loader sass-loader mini-css-extract-plugin
