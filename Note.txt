@@ -10,3 +10,4 @@ C:\react\webpacktut>npm run build
 C:\react\webpacktut>npm i -D html-webpack-plugin html-loader
 C:\react\webpacktut>npm i -D webpack-dev-server
 C:\react\webpacktut>npm run start:dev
+C:\react\webpacktut>npm i -D @babel/core babel-loader @babel/preset-env
